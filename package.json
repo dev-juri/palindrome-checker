@@ -1,5 +1,5 @@
 {
-  "name": "palindome-checker",
+  "name": "palindrome-checker",
   "version": "1.0.0",
   "description": "Check if a string or number is a palindrome",
   "main": "index.js",
@@ -11,5 +11,12 @@
   ],
   "type": "module",
   "author": "dev-juri",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-juri/palindrome-checker.git"
+},
+  "license": "MIT",
+  "dependencies": {
+    "palindome-checker": "^1.0.0"
+  }
 }
